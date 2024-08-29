@@ -70,11 +70,13 @@ python main.py
 ### Example
 
 After running the application and providing the drive letter, the app will set up the Busy Tag device and transfer the necessary files. When you click "ROLL," you should see output similar to this:
-<img src="/assets/GUI_sample.png" alt="You rolled: 6" width="280" height="200"/>
+
+<img src="/assets/GUI_sample.PNG" alt="You rolled: 6" width="280" height="200"/>
 
 The corresponding dice image (e.g., dice_6.png) will be displayed on the Busy Tag device.
 
 Sample:
+
 <img src="/assets/dice_roll_sample.png" alt="You rolled: 6" width="300" height="370"/>
 
 ### Troubleshooting
